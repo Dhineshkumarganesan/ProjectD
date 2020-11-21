@@ -54,7 +54,6 @@ jmespath==0.9.5
 jsonschema==3.2.0
 jupyter-client==6.0.0
 jupyter-core==4.6.3
-joblib==0.17.0
 json5==0.8.5
 kiwisolver==1.1.0
 MarkupSafe==1.1.1
@@ -64,7 +63,7 @@ nbconvert==5.6.1
 nbformat==5.0.4
 notebook==6.0.3
 numpy==1.16.1
-opencv-python==4.2.0.32
+opencv-python-headless
 pandas>=1.0.1
 pandocfilters==1.4.2
 parso==0.6.1
@@ -165,4 +164,3 @@ lime==0.2.0.1
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
-opencv-python-headless
